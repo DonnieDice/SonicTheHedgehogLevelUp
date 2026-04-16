@@ -1,11 +1,11 @@
-## Interface: 20504
+## Interface: 30403
 ## Version: 1.0.9
 ## Title:|cff1e3ce1Sonic The Hedgehog|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/SHHLU
+## X-Website: https://github.com/donniedice/SonicTheHedgehogLevelUp
 ## X-Curse-Project-ID: 594158
 ## X-Wago-ID: 2jK8BxNy
 ## X-WoWI-ID: 26263
