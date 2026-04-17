@@ -1,8 +1,8 @@
 # <span style="color: #2563EB;">🔷 </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #2563EB;">| </span> <span style="color: #2563EB;">S</span><span style="color: #ffffff;">onic </span><span style="color: #2563EB;">T</span><span style="color: #ffffff;">he </span><span style="color: #2563EB;">H</span><span style="color: #ffffff;">edgehog </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>
 
-![SHHLU Logo](https://github.com/DonnieDice/SonicTheHedgehogLevelUp/blob/main/images/logo.png?raw=true)
+![SHHLU Logo](images/logo.png)
 
-## ![](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
+## ![](images/kiwi.gif) <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods</span> <span style="color: #3598db;">-</span> <span style="color: #8b4b5c;">R</span><span style="color: #6b8fb0;">ealm</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #6b8fb0;">Community Project</span>
 
 ***
 
@@ -10,7 +10,7 @@
 
 **<span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #fff;">| </span> <span style="color: #2563EB;">S</span><span style="color: #ffffff;">onic </span><span style="color: #2563EB;">T</span><span style="color: #ffffff;">he </span><span style="color: #2563EB;">H</span><span style="color: #ffffff;">edgehog </span><span style="color: #2563EB;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #2563EB;">U</span><span style="color: #ffffff;">p</span><span style="color: #2563EB;">!</span>** <span style="color: #e67e23;">brings the iconic Sonic "LEVEL COMPLETE!" chime to</span> <span style="color: #06c;">World of Warcraft</span><span style="color: #e67e23;">, replacing the default sound with a fast-paced achievement moment across supported WoW versions.</span>
 
-![RealmGX Kiwi](https://github.com/donniedice/SimpleQuestPlates/blob/main/images/kiwi.gif?raw=true) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Gotta go fast! Bwwiiiee."</span>
+![RealmGX Kiwi](images/kiwi.gif) **<span style="color: #2dc26b;">The Kiwi Says:</span>** <span style="color: #b96ad9;">"Gotta go fast! Bwwiiiee."</span>
 
 ***
 
