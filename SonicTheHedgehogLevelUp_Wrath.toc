@@ -1,9 +1,11 @@
 ## Interface: 30403
-## Version: 1.0.12
-## Title:  |cff1e3ce1Sonic The Hedgehog|r Level Up|cff1e3ce1!|r
+## Version: 2.0.0
+## Title:  |cff022cedSonic The Hedgehog|r Level Up|cff022ced!|r
 ## IconTexture: Interface\AddOns\SonicTheHedgehogLevelUp\media\icon
 ## Author: DonnieDice
-## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff1e3ce1/sthlu -|r Open help  |n|r   |cff1e3ce1By DonnieDice|r
+## SavedVariables: STHLUSettings
+## RequiredDeps: RGX-Framework
+## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff022ced/sthlu -|r Open help  |n|r   |cff022cedBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/SonicTheHedgehogLevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: 2jK8BxNy
 ## X-WoWI-ID: 26263
 
-Core.lua
+data\locales.lua
+data\core.lua
