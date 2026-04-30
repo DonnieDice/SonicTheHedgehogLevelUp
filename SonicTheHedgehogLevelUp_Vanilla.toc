@@ -1,8 +1,9 @@
 ## Interface: 11500
-## Version: 1.0.11
-## Title:|cff1e3ce1Sonic The Hedgehog|r Level Up!
+## Version: 1.0.12
+## Title:  |cff1e3ce1Sonic The Hedgehog|r Level Up|cff1e3ce1!|r
+## IconTexture: Interface\AddOns\SonicTheHedgehogLevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff1e3ce1/sthlu -|r Open help  |n|r   |cff1e3ce1By DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/SonicTheHedgehogLevelUp
