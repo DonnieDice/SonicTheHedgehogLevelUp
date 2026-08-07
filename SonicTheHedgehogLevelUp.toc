@@ -3,6 +3,8 @@
 ## Title:  |cff022cedSonic The Hedgehog|r Level Up|cff022ced!|r
 ## IconTexture: Interface\AddOns\SonicTheHedgehogLevelUp\media\icon
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: STHLUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff022ced/sthlu -|r Open help  |n|r   |cff022cedBy DonnieDice|r
