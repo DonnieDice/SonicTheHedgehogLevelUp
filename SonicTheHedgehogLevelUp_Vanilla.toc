@@ -8,7 +8,7 @@
 ## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff022ced/sthlu -|r Open help  |n|r   |cff022cedBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/SonicTheHedgehogLevelUp
+## X-Website: https://github.com/RGXMods/SonicTheHedgehogLevelUp
 ## X-Curse-Project-ID: 594158
 ## X-Wago-ID: 2jK8BxNy
 ## X-WoWI-ID: 26263
