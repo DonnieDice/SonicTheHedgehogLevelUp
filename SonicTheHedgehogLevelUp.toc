@@ -13,7 +13,6 @@
 ## X-Website: https://github.com/RGXMods/SonicTheHedgehogLevelUp
 ## X-Curse-Project-ID: 594158
 ## X-Wago-ID: 2jK8BxNy
-## X-WoWI-ID: 26263
 
 data\locales.lua
 data\core.lua
